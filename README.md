@@ -191,7 +191,7 @@ Whether it's crafting seamless user experiences, developing robust applications,
 ### My Leetcode Stats
 
 
-<a href="https://leetcode.com/HrithikPB/">🌐</a>
+<a href="https://leetcode.com/HrithikPB/"><img src="https://icons8.com/icon/9L16NypUzu38/level-up-your-coding-skills-and-quickly-land-a-job" width="40" height="40"/></a>
 
 <table>
     <tr>
