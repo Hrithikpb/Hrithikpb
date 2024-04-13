@@ -188,7 +188,7 @@ Whether it's crafting seamless user experiences, developing robust applications,
     </tr>
     <tr>
         <td>
-            <img src="http://34.93.126.129:8000/HrithikPB&count_private=true&show_icons=true&theme=tokyonight"/>
+            <img src="https://leetcode-stats-api.onrender.com/HrithikPB&count_private=true&show_icons=true&theme=tokyonight"/>
         </td>
     </tr>
 </table>
