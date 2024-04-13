@@ -192,7 +192,7 @@ Whether it's crafting seamless user experiences, developing robust applications,
 <table>
     <tr>
         <td>
-            <img src="https://leetcard.jacoblin.cool/HrithikPB?theme=dark&font=Nanum%20Gothic%20Coding&count_private=true&show_icons=true&theme=tokyonight"/>
+            <img src="https://leetcard.jacoblin.cool/HrithikPB?theme=dark"/>
         </td>
     </tr>
 </table>
