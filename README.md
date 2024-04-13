@@ -1,6 +1,8 @@
-# Hello there 👋, I'm Hrithik Prativadi Bhayankara But
+# Hey there 👋, I'm Hrithik Prativadi Bhayankara 
 
-### Software Engineer
+### Software Engineer - Full Stack Developer
+
+Whether it's crafting seamless user experiences, developing robust applications, or leveraging machine learning and autonomous systems, I am committed to delivering excellence and contributing to the development of groundbreaking solutions that have a lasting impact.
 
 - 🔭 I’m currently working on: Miro Clone Project 
 - 🌱 I’m currently learning: __Blockchain, Solidity Programming, Go__
@@ -11,19 +13,15 @@
 
 <table>
     <tr>
-        <th>My Blog</th>
         <th>My Website</th>
         <th>My CV</th>
     </tr>
     <tr>
         <td>
-            <a href="[https://colin-but.medium.com/](https://hrithik-portfolio-azure.vercel.app/)"><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg"/></a>
+            <a href="https://hrithik-portfolio-azure.vercel.app/">🌐</a>
         </td>
         <td>
-            <a href="[https://colinbut.github.io/](https://hrithik-portfolio-azure.vercel.app/)">🌐</a>
-        </td>
-        <td>
-            <a href="[https://colinbut.github.io/online-resume](https://hrithik-portfolio-azure.vercel.app/)">📃</a>
+            <a href="https://drive.google.com/file/d/1yNEc3XMooVOhLVpWTVqSMHuwhV-4T5ze/view?usp=drive_link">📃</a>
         </td>
     </tr>
 </table>
@@ -32,9 +30,7 @@
 
 ### Contact me:
 
-<a href="https://twitter.com/Colin_But"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>
-<a href="[[https://www.linkedin.com/in/colinbut/](https://www.linkedin.com/in/hrithikpb/)](https://www.linkedin.com/in/hrithikpb/)"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
-<a href="https://www.pinterest.co.uk/colinbut"><img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/hrithikpb/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 
 ### Toolset
 
@@ -174,13 +170,6 @@
 
 
 <br/>
-
-### Support my Work
-<br/>
-<a href="https://www.buymeacoffee.com/colinbut"><img src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-official.svg"/></a>
-
-
-<br />
 
 ### My GitHub Stats
 
