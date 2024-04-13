@@ -185,10 +185,14 @@ Whether it's crafting seamless user experiences, developing robust applications,
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrithikpb&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
         </td>
     </tr>
-    </tr>
+</table>
+
+### My Leetcode Stats
+
+<table>
     <tr>
         <td>
-            <img src="https://leetcode-stats-api.onrender.com/HrithikPB&count_private=true&show_icons=true&theme=tokyonight"/>
+            <img src="https://leetcard.jacoblin.cool/HrithikPB?theme=dark&font=Nanum%20Gothic%20Coding&count_private=true&show_icons=true&theme=tokyonight"/>
         </td>
     </tr>
 </table>
