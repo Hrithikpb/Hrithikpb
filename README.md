@@ -28,7 +28,7 @@ Whether it's crafting seamless user experiences, developing robust applications,
 ### Contact me:
 
 <a href="https://www.linkedin.com/in/hrithikpb/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
-<a href="mailto:hrithikpb@gmail.com"><img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/gmail/gmail-icon.svg" width="40" height="40"/></a>
+<a href="mailto:hrithikpb@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40"/></a>
 
 ### Toolset
 
