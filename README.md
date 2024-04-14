@@ -44,9 +44,9 @@ Whether it's crafting seamless user experiences, developing robust applications,
             <a href=""><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="40" height="40"/></a> -->
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/java/java-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/python/python-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/sqlite/sqlite-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/w3_html5/w3_html5-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/w3_css/w3_css-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
 <!--             <a href=""><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/groovy/groovy-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/></a> -->
@@ -56,10 +56,12 @@ Whether it's crafting seamless user experiences, developing robust applications,
     <tr>
         <td>Frameworks</td>
         <td>
-            <a href=""><img src="https://www.svgrepo.com/svg/354113/nextjs-icon" width="40" height="40"/></a>
+            <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/react/react-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/angular/angular-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/nodejs/nodejs-horizontal.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/redux/redux-original.svg" width="40" height="40"/></a>
 <!--             <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_cloudformation/amazon_cloudformation-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg" width="40" height="40"/></a>
